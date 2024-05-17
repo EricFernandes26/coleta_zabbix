@@ -37,4 +37,7 @@ Script Shell:
 Script Python:
 * Certifique-se de ter instalado o Python e as bibliotecas necessárias (openpyxl, boto3).
 * Execute o script script_right_size.py utilizando o comando python3 script_right_size.py.
-  
+
+
+## Output do script python
+![image](https://github.com/EricFernandes26/coleta_zabbix/assets/83287307/462b72cc-5895-4779-b1ec-ab94d4c1749d)
