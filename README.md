@@ -31,10 +31,10 @@ Este script Python realiza as seguintes tarefas:
 ## Como Executar
 Script Shell:
 * Certifique-se de ter permissões de execução no script (chmod +x script_extrair_dados.sh).
-* Execute o script consulta_zabbix.sh diretamente ou com o comando bash script_extrair_dados.sh.
+* Execute o script script_extrair_dados.sh diretamente ou com o comando bash script_extrair_dados.sh.
 
 
 Script Python:
 * Certifique-se de ter instalado o Python e as bibliotecas necessárias (openpyxl, boto3).
-* Execute o script consulta_bedrock.py utilizando o comando python consulta_bedrock.py.
+* Execute o script script_right_size.py utilizando o comando python3 script_right_size.py.
   
