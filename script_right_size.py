@@ -56,7 +56,7 @@ workbook.close()
 
 # Prepara os dados para a solicitação Bedrock
 data = {
-    "prompt": "\n\nHuman: sugira uma classe de instância EC2 com base nos seguintes dados: \n\nUtilização de CPU: {cpu_utilization}\nUtilização de Memória: {memory_utilization}\nInformações do Sistema: {system_info}\n\nAssistant:",
+    "prompt": f"\n\nHuman: sugira uma classe de instância EC2 com base nos seguintes dados: \n\nUtilização de CPU: {cpu_utilization}\nUtilização de Memória: {memory_utilization}\nInformações do Sistema: {system_info}\n\nAssistant:",
     "max_tokens_to_sample": 300,
     "temperature": 0.1,
     "top_p": 0.9,
